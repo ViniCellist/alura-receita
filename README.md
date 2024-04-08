@@ -1,2 +1,2 @@
-# alura-receita
- project of alura's receita
+# arquitetura-css
+curso de arquitetura da Alura. 

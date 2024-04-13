@@ -191,3 +191,11 @@
 .pessoa__imagem--andreia {
     background-image: url(../img/pessoas/andreia.jpg);
 }
+
+.rodape {
+    background-color: #BFBFBF;
+    color: #FDFDFD;
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+}
